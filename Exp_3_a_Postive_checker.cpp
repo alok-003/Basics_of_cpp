@@ -9,11 +9,14 @@ int main(){
     int num;
     cout<<"Enter a number: ";
     cin>>num;
-    if (num>=0){
-        cout<<num<<" is positive";
+    if (num>0){
+        cout<<"The Number is positive";
     }
-    else {
-        cout<<num<<" is negative";
+    else if (num<0){
+        cout<<"The Number is negative";
+    }
+    else{
+        cout<<("The Number is Zero");
     }
 }
 /*
