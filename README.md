@@ -1,6 +1,6 @@
 # Basics_of_cpp
 
-Objective:
+# Objective:
 To learn the basics of C++ programming
 
 Description:
