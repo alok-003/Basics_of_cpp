@@ -1,10 +1,17 @@
-# Basics_of_cpp
+# Basics of C++
 
-# Objective:
-To learn the basics of C++ programming
+# Experiment 1
 
-Description:
-C++ is a versatile programming language known for its efficiency and control. It features variables to store data, such as integers (int), floating-point numbers (float and double), characters (char), and boolean values (bool). Operators like arithmetic (+, -, *, /), relational (==, !=, >, <), and logical (&&, ||, !) are used to manipulate these variables. Control statements, including `if`, `else`, `while`, and `for`, manage the flow of the program. Input and output are handled via the `cin` and `cout` streams, respectively, enabling interaction with the user.
+# AIM
+To Print "Hello World" and program a simple calculator in C++
 
-Software Used:
-VS Code
+# Theory
+C++ is a general-purpose, high-performance programming language that builds on the foundation of the C language. Developed by Bjarne Stroustrup in the early 1980s at Bell Labs, C++ is a cross-platform language used to create high-performance applications. It supports object-oriented programming, making it a versatile tool for various types of software development.
+
+This experiment consists of two practicals namely printing of "Hello World" and making of calculator program.
+
+# Hello World:
+In the hello world program , the cout function from the iostream library is commonly used to print output to the console. The iostream library in C++ is a part of the Standard Library and provides functionalities for input and output operations.The using namespace std; directive is used to avoid the need to prefix standard library names with std::.
+
+# Simple Calculator:
+Basic airthmetic operations(+,-,/,*) were used to create the calculator program. While cin function is used to recive inputs from the user.
